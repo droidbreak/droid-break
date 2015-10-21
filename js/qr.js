@@ -243,6 +243,10 @@ function appMeta(appID){
             appName   'Syncthing';
             qrLink    "market://details?id=com.nutomic.syncthingandroid";
             break;
+        case 'afwall':
+            appName   'AFWall';
+            qrLink    "market://details?id=dev.ukanth.ufirewall";
+            break;
         default:
             appName = appID;
             qrLink = appID;
