@@ -247,6 +247,18 @@ function appMeta(appID){
             appName = 'Xabber';
             qrLink = "market://details?id=com.xabber.androiddev";
             break;
+        case 'passandroid':
+            appName   'PassAndroid';
+            qrLink    "market://details?id=org.ligi.passandroid";
+            break;
+        case 'syncthing':
+            appName   'Syncthing';
+            qrLink    "market://details?id=com.nutomic.syncthingandroid";
+            break;
+        case 'afwall':
+            appName   'AFWall';
+            qrLink    "market://details?id=dev.ukanth.ufirewall";
+            break;
         default:
             appName = appID;
             qrLink = appID;
