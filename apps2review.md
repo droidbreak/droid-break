@@ -34,6 +34,9 @@
 * https://github.com/adneal/Apollo-CM
 * not in Google Play
 
+###  Gramophone
+* https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone
+
 ## Navigation
 ### Liberario
 * https://play.google.com/store/apps/details?id=de.grobox.liberario
