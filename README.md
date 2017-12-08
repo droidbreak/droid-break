@@ -5,7 +5,7 @@ Please note that open source apps don't guarantee absolute freedom, e.g. an open
 Anyway, we believe it's the best we can come up with and that in many cases it's the better choice. 
 If you think an app should be added, please write an [email](http://droid-break.info/support.html "support"), a [tweet](https://twitter.com/droidbreak "@droidbreak"), a [disqus](http://droid-break.info/#disqus "Disqus for droid-break.info") comment or fork the project on GitHub and make a pull request. 
 
-You will find most of these apps in the [F-Droid](https://f-droid.org/ "F-Droid") repository. Also, you might want to consider to flash a custom ROM like [Cyanogen Mod](http://www.cyanogenmod.org/ "CyanogenMod") or [Replicant](http://replicant.us/ "Replicant") on your device. 
+You will find most of these apps in the [F-Droid](https://f-droid.org/ "F-Droid") repository. Also, you might want to consider to flash a custom ROM like [LineageOS](https://lineageos.org/ "LineageOS") or [Replicant](http://replicant.us/ "Replicant") on your device. 
 
 ## Categories
 Web Browser, Social Networking, Messenger, VoIP, Multimedia, Email, Notes, News Reader, File Manager, Navigation, Keyboard, Cloud, Office, Security, Misc
